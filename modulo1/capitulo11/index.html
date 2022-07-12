@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML5</title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+    <p>Tente abrir este site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho do seu navegador.</p>
+
+    <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-g.png" alt="Imagem flexível">
+    </picture>
+
+    <h1>Reproduzindo Áudio</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5</p>
+
+    <!-- Dica onde baixar áudios: YouTube; Youtube Studio; Biblioteca de áudio  -->
+    <audio preload="metadata" controls loop> <!-- colocar autoplay depois -->
+        <!-- O navegador vai tentar ler cada um destes formatos, de cima para baixo. Caso nenhum formato seja reconhecido, será reproduzida a mensagem a seguir -->
+        <source src="midia/allegro-emmit-fenn.mp3" type="audio/mpeg">
+        <source src="midia/allegro-emmit-fenn.ogg" type="audio/ogg">
+        <source src="midia/allegro-emmit-fenn.wav" type="audio/wav"> <!-- evitar este formato; muito pesado -->
+        <p>Infelizmente seu navegador não consegue reproduzir áudio. <a href="midia/allegro-emmit-fenn.mp3">Clique aqui para baixar o arquivo MP3.</a></p>
+    </audio>
+
+    <!-- Dica onde baixar vídeos: Pexels  -->
+    <!-- Diminuindo resolução do vídeo:
+    App HandBrake; abre o vídeo; Preset; Web; Vimeo YouTube 720p30; Start -->
+    <!-- Convertendo o vídeo para outros formatos:
+    HandBrake; abre o vídeo; Preset; Web; Vimeo YouTube 720p30; Format: WebM; Start
+    Miro Video Converter; abre o vídeo; Format: Video: Ogg Theora; Convert -->
+    <h1>Inserindo vídeos hospedados localmente</h1>
+    <p>Este vídeo está hospedado no meu próprio servidor</p>
+    
+    <video width="560" poster="imagens/capa-video.png" controls> <!-- pode ser inserido autoplay e loop -->
+        <source src="midia/pexels-marc-onana-5620206.mp4" type="video/mp4">
+        <source src="midia/pexels-marc-onana-5620206.webm" type="video/webm">
+        <source src="midia/pexels-marc-onana-5620206.oggtheora.ogv" type="video/ogg">
+        <p>Seu navegador não tem compatibilidade com reprodução de vídeos.</p>
+    </video>
+
+    <h1>Inserindo vídeos do YouTube</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5FchYUFoiRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <h1>Inserindo vídeos do Vimeo</h1>
+    <iframe src="https://player.vimeo.com/video/39379877?h=8eb5ce8b2f&portrait=0" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html> 
