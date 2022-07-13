@@ -1,7 +1,7 @@
 # html-css
  Curso de HTML5 e CSS3 - CursoemVideo 
 
-Módulo 1
+Módulo 1<br>
 <a href="https://danielrdf.github.io/html-css/modulo1/capitulo04/index.html" target="_blank">Exercício "Olá, Mundo!"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo1/capitulo05/index.html" target="_blank">Exercício "Parágrafos e quebras de linha"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo1/capitulo06/index.html" target="_blank">Exercício "Carregamento de Imagens"</a><br>
@@ -17,7 +17,7 @@ Módulo 1
 <a href="https://danielrdf.github.io/html-css/modulo1/capitulo12/index2.html" target="_blank">Exercício "Estilos Locais"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo1/capitulo12/index3.html" target="_blank">Exercício "Estilos Externos"</a><br>
 
-Módulo 2
+Módulo 2<br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo13/cor01.html" target="_blank">Exercício "Cores"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo13/cor02.html" target="_blank">Exercício "Gradiente"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo13/cor03.html" target="_blank">Exercício "Teste Site"</a><br>
@@ -31,7 +31,7 @@ Módulo 2
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo15/links.html" target="_blank">Exercício "Pseudo-elementos"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo16/caixa01.html" target="_blank">Exercício "Modelo de Caixas"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo16/caixa02.html" target="_blank">Exercício "Grouping Tags"</a><br>
-<a href="https://danielrdf.github.io/html-css/modulo2/capitulo16/caixa03.html" target="_blank">Exercício "Borda Personalizada"</a>
+<a href="https://danielrdf.github.io/html-css/modulo2/capitulo16/caixa03.html" target="_blank">Exercício "Borda Personalizada"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo17/responsivo.html" target="_blank">Exercício "Teste de Responsividade"</a><br>
-<a href="https://danielrdf.github.io/html-css/modulo2/capitulo17/responsivo2.html" target="_blank">Exercício "Teste de Responsividade 2"</a>
-<p><a href="https://danielrdf.github.io/html-css/modulo2/desafio/android.html" target="_blank">Exercício "Site Android"</a></p>
+<a href="https://danielrdf.github.io/html-css/modulo2/capitulo17/responsivo2.html" target="_blank">Exercício "Teste de Responsividade 2"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo2/desafio/android.html" target="_blank">Exercício "Site Android"</a><br>
