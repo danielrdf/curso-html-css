@@ -1,5 +1,5 @@
 # html-css
- Curso de HTML5 e CSS3 - CursoemVideo 
+ <a href="https://danielrdf.github.io/html-css/">Exercícios Curso de HTML5 e CSS3 - CursoemVideo</a>  
 
 Módulo 1<br>
 <a href="https://danielrdf.github.io/html-css/modulo1/capitulo04/index.html" target="_blank">Exercício "Olá, Mundo!"</a><br>
