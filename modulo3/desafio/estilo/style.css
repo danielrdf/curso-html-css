@@ -12,19 +12,14 @@
     font-style: normal;
 }
 
-/* VARIÁVEIS (CORES E FONTES) */
+/* CONFIGURAÇÕES GERAIS */
 
 :root {
-    /* paleta de cores */
-    --cor1: ;
-
     /* coleção de fontes */
     --fonte1: 'cordel', cursive;
     --fonte2: Verdana, Geneva, Tahoma, sans-serif;
     --fonte3: 'pow', serif;
 }
-
-/* CONFIGURAÇÕES GERAIS */
 
 * { /* resetando margin e padding de todos os elementos */
     margin: 0;
@@ -73,28 +68,37 @@ header > p {
 
 section {
     padding-top: 10vh; /* 10% altura viewport */
-    padding-bottom: 10vh;
     padding-left: 30px;
     font-family: var(--fonte3);
     font-size: 2.5vw;
-    line-height: 2em;
+    line-height: 1.6em;
+}
+
+section > p {
+    padding-bottom: 2em;
 }
 
 section.normal {
     background-color: white;
     color: black;
+    padding-bottom: 4vh;
 }
 
 section.imagem {
     background-color: rgb(59, 58, 58);
-    background-image: url('');
     color: white;
+    padding-bottom: 10vh;
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.55);
+    background-image: url('../imagens/rm303-set-au-01a.jpg');
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 section.imagem > p {
     display: inline-block;
     padding: 7px;
-    background-color: rgba(0, 0, 0, 0.25);
+    background-color: rgba(0, 0, 0, 0.75);
+    text-shadow: 1px 1px 0 black;
 }
 
 /* FOOTER */
