@@ -1,4 +1,28 @@
 @charset "UTF-8";
+@font-face {
+    font-family: 'cordel';
+    src: url('../fontes/Cordel Encarnado II.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'pow';
+    src: url('../fontes/POWDRFT_.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* VARIÁVEIS (CORES E FONTES) */
+
+:root {
+    /* paleta de cores */
+    --cor1: ;
+
+    /* coleção de fontes */
+    --fonte1: 'cordel', cursive;
+    --fonte2: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte3: 'pow', serif;
+}
 
 /* CONFIGURAÇÕES GERAIS */
 
@@ -10,6 +34,7 @@
 html, body {
     min-height: 100vh; /* 100% altura viewport */
     background-color: darkgray;
+    font-family: var(--fonte2);
 }
 
 /* LINKS */
@@ -34,8 +59,10 @@ header {
 
 header > h1 {
     padding-top: 50px;
-    /* text-transform: uppercase; */
     font-variant: small-caps; /* funciona como um mix de uppercase e capitalize */
+    font-family: var(--fonte1);
+    font-size: 8vw;
+    font-weight: normal;
 }
 
 header > p {
@@ -48,6 +75,8 @@ section {
     padding-top: 10vh; /* 10% altura viewport */
     padding-bottom: 10vh;
     padding-left: 30px;
+    font-family: var(--fonte3);
+    font-size: 2.5vw;
     line-height: 2em;
 }
 
@@ -63,7 +92,8 @@ section.imagem {
 }
 
 section.imagem > p {
-    width: 400px;
+    display: inline-block;
+    padding: 7px;
     background-color: rgba(0, 0, 0, 0.25);
 }
 
