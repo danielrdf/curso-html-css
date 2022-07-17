@@ -35,3 +35,13 @@ Módulo 2<br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo17/responsivo.html" target="_blank">Exercício "Teste de Responsividade"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo17/responsivo2.html" target="_blank">Exercício "Teste de Responsividade 2"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/desafio/android.html" target="_blank">Exercício "Site Android"</a><br>
+
+Módulo 3<br>
+<a href="https://danielrdf.github.io/html-css/modulo3/capitulo19/fundo01.html" target="_blank">Exercício "Teste de Imagem de Fundo"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo3/capitulo19/fundo02.html" target="_blank">Exercício "Personalização dos Fundos"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo3/capitulo19/fundo03.html" target="_blank">Exercício "Posicionamento Fundo 1"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo3/capitulo19/fundo04.html" target="_blank">Exercício "Posicionamento Fundo 2"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo3/capitulo19/fundo05.html" target="_blank">Exercício "Posicionamento Fundo 3"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo3/capitulo19/fundo06.html" target="_blank">Exercício "Fundo Fixo"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo3/capitulo19/fundo07.html" target="_blank">Exercício "Alinhamento Vertical"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo3/desafio/index.html" target="_blank">Exercício "Site Cordel"</a><br>
