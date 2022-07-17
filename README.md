@@ -32,7 +32,7 @@ Módulo 2<br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo16/caixa01.html" target="_blank">Exercício "Modelo de Caixas"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo16/caixa02.html" target="_blank">Exercício "Grouping Tags"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo16/caixa03.html" target="_blank">Exercício "Borda Personalizada"</a><br>
-<a href="https://danielrdf.github.io/html-css/modulo2/capitulo17/responsivo.html" target="_blank">Exercício "Teste de Responsividade"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo2/capitulo17/responsivo.html" target="_blank">Exercício "Teste de Responsividade 1"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo17/responsivo2.html" target="_blank">Exercício "Teste de Responsividade 2"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/desafio/android.html" target="_blank">Exercício "Site Android"</a><br>
 
