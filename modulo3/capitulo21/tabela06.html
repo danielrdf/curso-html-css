@@ -4,75 +4,64 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Desafio Tabelas</title>
+    <title>Exercício de Tabela</title>
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
         }
         table {
+            width: 500px;
             border-collapse: collapse;
-            width: 650px;
         }
-        td, th {
+        caption {
+            font-size: 1.3em;
+            font-weight: bolder;
+            padding: 8px;
+        }
+        th, td {
             border: 1px solid black;
-            padding: 10px;
+            padding: 8px;
         }
-        th {
-            background-color: gray;
-            color: white;
+        col.cnome {
+            background-color: aquamarine;
         }
-        th.subtit {
-            background-color: white;
-            color: black;
-        }
-        th.esquerda {
-            text-align: left;
-        }
-        td.num {
-            text-align: center;
-        }
-        td#media {
-            background-color: gray;
-            color: white;
+        col.cgrupo {
+            background-color: aqua;
         }
     </style>
 </head>
 <body>
+    <h1>Exercício de Tabela</h1>
     <table>
-        <thead>
-            <tr>
-                <th rowspan="2" scope="col">Área</th><th rowspan="2" scope="col">Disciplinas</th><th colspan="2" scope="colgroup">Notas</th><th rowspan="2" scope="col">Média</th>
-            </tr>
-            <tr>
-                <th scope="col">Nota 1</th><th scope="col">Nota 2</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <th rowspan="4" class="subtit" scope="rowgroup">Exatas</th><td>Matemática</td><td class="num">0.0</td><td class="num">0.0</td><td class="num">0.0</td>
-            </tr>
-            <tr>
-                <td>Física</td><td class="num">0.0</td><td class="num">0.0</td><td class="num">0.0</td>
-            </tr>
-            <tr>
-                <td>Química</td><td class="num">0.0</td><td class="num">0.0</td><td class="num">0.0</td>
-            </tr>
-            <tr>
-                <td>Biologia</td><td class="num">0.0</td><td class="num">0.0</td><td class="num">0.0</td>
-            </tr>
-            <tr>
-                <th colspan="4" class="esquerda" scope="row">Média de Exatas</th><td class="num" id="media"><strong>0.0</strong></td>
-            </tr>
-            <tr>
-                <th rowspan="2" class="subtit" scope="rowgroup">Humanas</th><td>História</td><td class="num">0.0</td><td class="num">0.0</td><td class="num">0.0</td>
-            </tr>
-            <tr>
-                <td>Geografia</td><td class="num">0.0</td><td class="num">0.0</td><td class="num">0.0</td>
-            </tr>
-            <tr>
-                <th colspan="4" class="esquerda" scope="row">Média de Humanas</th><td class="num" id="media"><strong>0.0</strong></td>
-            </tr>
-        </tbody>
+        <colgroup>
+            <col class="cnome">
+            <col class="cgrupo" span="3">
+        </colgroup>
+        <caption>Cadastro</caption>
+        <tr>
+            <th scope="col">Nome</th>
+            <th scope="col">Sexo</th>
+            <th scope="col">Idade</th>
+            <th scope="col">Profissão</th>
+        </tr>
+        <tr>
+            <td>Ana Maria</td><td>F</td><td>25</td><td>Jornalista</td>
+        </tr>
+        <tr>
+            <td>Cláudio</td><td>M</td><td>26</td><td>Programador</td>
+        </tr>
+        <tr>
+            <td>Gustavo</td><td>M</td><td>42</td><td>Professor</td>
+        </tr>
+        <tr>
+            <td>Hélio</td><td>M</td><td>19</td><td>Vendedor</td>
+        </tr>
+        <tr>
+            <td>Maria</td><td>F</td><td>29</td><td>Médica</td>
+        </tr>
+        <tr>
+            <td>Otávio</td><td>M</td><td>22</td><td>Nutricionista</td>
+        </tr>
     </table>
 </body>
 </html>

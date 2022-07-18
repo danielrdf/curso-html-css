@@ -47,9 +47,8 @@ Módulo 3<br>
 <a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela01.html" target="_blank">Exercício "Primeira Tabela"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela02.html" target="_blank">Exercício "Tabelas Grandes"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela03.html" target="_blank">Exercício "Mesclagem de Células"</a><br>
-<a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela04.html" target="_blank">Exercício "Tabelas 1"</a><br>
-<a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela05.html" target="_blank">Exercício "Escopo de Tabelas"</a><br>
-<a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela06.html" target="_blank">Exercício "Tabelas 2"</a><br>
-<a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela07.html" target="_blank">Exercício "Agrupando Colunas"</a><br>
-<a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela08.html" target="_blank">Exercício "Tabela Responsiva"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela04.html" target="_blank">Exercício "Escopo de Tabelas"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela05.html" target="_blank">Exercício "Exercícios de Tabelas"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela06.html" target="_blank">Exercício "Agrupando Colunas"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela07.html" target="_blank">Exercício "Tabela Responsiva"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo3/desafio/index.html" target="_blank">Exercício "Site Cordel"</a><br>
