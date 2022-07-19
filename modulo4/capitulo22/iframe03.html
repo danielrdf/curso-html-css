@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uso de iframe</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        iframe#tela {
+            width: 98vw;
+            height: 400px;
+            border: 2px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Faça uma escolha</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit dolores aliquid pariatur in molestias, officia error maxime nostrum iure cum magnam culpa eligendi, corrupti quam alias! Ad deleniti optio eaque.</p>
+
+    <ul>
+        <li><a href="paginas/pagina01.html" target="frame">Primeira página</a></li>
+        <li><a href="paginas/pagina02.html" target="frame">Segunda página</a></li>
+        <li><a href="paginas/pagina03.html" target="frame">Terceira página</a></li>
+    </ul>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit perspiciatis non, amet dolore tempora dignissimos incidunt obcaecati in vitae asperiores quia, est harum maiores. Modi veritatis laboriosam odit quae provident! Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque esse ut architecto libero doloribus ex aspernatur saepe natus, est quisquam excepturi perferendis at vitae ratione! Sunt eum asperiores quibusdam totam!</p>
+
+    <iframe id="tela" name="frame" srcdoc="<h1>Escolha uma das opções acima</h1><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, odit! Ea autem quidem alias obcaecati quos possimus, perspiciatis excepturi corporis, provident eveniet sit explicabo exercitationem ratione. Quasi doloribus aperiam repellat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus culpa modi dolores iure consequuntur. Et, dolore distinctio amet soluta illum eveniet voluptates dicta mollitia magni. Quos voluptates error similique voluptatem.</p>">
+        <p>Infelizmente seu navegador não é compatível com isso.</p>
+    </iframe>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, odit! Ea autem quidem alias obcaecati quos possimus, perspiciatis excepturi corporis, provident eveniet sit explicabo exercitationem ratione. Quasi doloribus aperiam repellat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus culpa modi dolores iure consequuntur. Et, dolore distinctio amet soluta illum eveniet voluptates dicta mollitia magni. Quos voluptates error similique voluptatem.</p>
+</body>
+</html>
