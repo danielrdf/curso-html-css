@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iframes</title>
+</head>
+<body>
+    <h1>Site principal</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et magni impedit quisquam repudiandae non nam ab maiores est soluta tenetur nostrum quaerat autem similique exercitationem, optio aperiam mollitia atque neque?</p>
+    <!-- sandbox="sandbox": bloqueando ações potencialmente maliciosas dos sites dentro do iframe (não captura mais nenhum tipo de informação; o formulário não irá funcionar) -->
+    <!-- sandbox="allow-same-origin": pagina04.html está no mesmo servidor que o meu -->
+    <!-- no-referrer: o conteúdo carregado dentro do iframe não vai coletar nenhum tipo de informação do usuário -->
+    <iframe src="paginas/pagina04.html" frameborder="1" sandbox="allow-same-origin allow-forms allow-scripts" referrerpolicy="no-referrer">
+        Navegador não compatível.
+    </iframe>
+
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt qui harum quasi adipisci ea recusandae repellat asperiores delectus omnis eveniet, dolorum voluptatem sapiente tempore ad facere quaerat veniam itaque quidem?</p>
+</body>
+</html>
