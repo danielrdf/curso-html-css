@@ -34,7 +34,7 @@ Módulo 2<br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo16/caixa03.html" target="_blank">Exercício "Borda Personalizada"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo17/responsivo.html" target="_blank">Exercício "Teste de Responsividade 1"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo2/capitulo17/responsivo2.html" target="_blank">Exercício "Teste de Responsividade 2"</a><br>
-<a href="https://danielrdf.github.io/html-css/modulo2/desafio/android.html" target="_blank">Exercício "Site Android"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo2/desafio/android.html" target="_blank">Desafio "Site Android"</a><br>
 
 Módulo 3<br>
 <a href="https://danielrdf.github.io/html-css/modulo3/capitulo19/fundo01.html" target="_blank">Exercício "Teste de Imagem de Fundo"</a><br>
@@ -51,7 +51,7 @@ Módulo 3<br>
 <a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela05.html" target="_blank">Exercício "Exercícios de Tabelas"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela06.html" target="_blank">Exercício "Agrupando Colunas"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo3/capitulo21/tabela07.html" target="_blank">Exercício "Tabela Responsiva"</a><br>
-<a href="https://danielrdf.github.io/html-css/modulo3/desafio/index.html" target="_blank">Exercício "Site Cordel"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo3/desafio/index.html" target="_blank">Desafio "Site Cordel"</a><br>
 
 Módulo 4<br>
 <a href="https://danielrdf.github.io/html-css/modulo4/capitulo22/iframe01.html" target="_blank">Exercício "Teste com iframes"</a><br>
@@ -60,4 +60,4 @@ Módulo 4<br>
 <a href="https://danielrdf.github.io/html-css/modulo4/capitulo22/iframe04.html" target="_blank">Exercício "Configurações de segurança em iframes I"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo4/capitulo22/iframe05.html" target="_blank">Exercício "Configurações de segurança em iframes II"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo4/capitulo22/iframe06.html" target="_blank">Exercício "Conteúdos dentro de iframes"</a><br>
-<a href="https://danielrdf.github.io/html-css/modulo4/desafio/index.html" target="_blank">Exercício "Site Redes Sociais"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo4/desafio/index.html" target="_blank">Desafio "Site Redes Sociais"</a><br>
