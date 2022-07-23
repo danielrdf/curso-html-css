@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+    <style>
+        * {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <h1>Formulário</h1>
+    <!-- 
+        Métodos para envio de formulários:
+        GET: quando não forem dados sensíveis; URL se torna compartilhável; até 3.000 bytes (aproximadamente 3.000 letras); quando não houver envio de arquivos.
+        POST: dados sensíveis (para senhas e outros dados de maior sensibilidade, usar https); dados não aparecem na URL; mais de 3.000 bytes; envio de arquivos.
+    -->
+    <form action="cadastro.php" method="get" autocomplete="off"> <!-- retirando o autocomplete -->
+        <p><label for="inome">Nome:</label> 
+            <input type="text" name="nome" id="inome"></p>
+        <p><label for="isobrenome">Sobrenome:</label> 
+            <input type="text" name="sobrenome" id="isobrenome"></p>
+        <p><input type="submit" value="Enviar"></p>
+    </form>
+</body>
+</html>
