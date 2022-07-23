@@ -60,3 +60,4 @@ Módulo 4<br>
 <a href="https://danielrdf.github.io/html-css/modulo4/capitulo22/iframe04.html" target="_blank">Exercício "Configurações de segurança em iframes I"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo4/capitulo22/iframe05.html" target="_blank">Exercício "Configurações de segurança em iframes II"</a><br>
 <a href="https://danielrdf.github.io/html-css/modulo4/capitulo22/iframe06.html" target="_blank">Exercício "Conteúdos dentro de iframes"</a><br>
+<a href="https://danielrdf.github.io/html-css/modulo4/desafio/index.html" target="_blank">Exercício "Site Redes Sociais"</a><br>
